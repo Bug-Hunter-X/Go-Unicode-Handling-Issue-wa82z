@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Go related to Unicode character handling. The `bug.go` file showcases the problem, while `bugSolution.go` provides a corrected version.  The issue arises from potential encoding inconsistencies when dealing with non-ASCII characters.
